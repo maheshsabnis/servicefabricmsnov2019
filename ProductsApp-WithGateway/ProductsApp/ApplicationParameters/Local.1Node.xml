@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="fabric:/ProductsApp" xmlns="http://schemas.microsoft.com/2011/01/fabric">
+  <Parameters>
+    <Parameter Name="GetwayApplication_ASPNETCORE_ENVIRONMENT" Value="Development" />
+    <Parameter Name="GetwayApplication_InstanceCount" Value="1" />
+    <Parameter Name="CategoryService_ASPNETCORE_ENVIRONMENT" Value="Development" />
+    <Parameter Name="CategoryService_InstanceCount" Value="1" />
+    <Parameter Name="ProductsService_ASPNETCORE_ENVIRONMENT" Value="Development" />
+    <Parameter Name="ProductsService_InstanceCount" Value="1" />
+  </Parameters>
+</Application>
