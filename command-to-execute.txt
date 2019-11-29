@@ -1,0 +1,1 @@
+.\SetupApplications.ps1 -TenantId '<your-tenantID>' -ClusterName '<your-cluster-name>.<region>.cloudapp.azure.com' -WebApplicationReplyUrl 'https://<your-cluster-name>.<region>.cloudapp.azure.com:19080/Explorer/index.html'
